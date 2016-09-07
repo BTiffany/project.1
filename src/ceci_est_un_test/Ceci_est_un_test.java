@@ -16,6 +16,7 @@ public class Ceci_est_un_test {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
     }
     
 }
